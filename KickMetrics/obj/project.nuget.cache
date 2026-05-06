@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PXf25kGvu8I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\KickMetrics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\husss\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.7\\microsoft.aspnetcore.app.internal.assets.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

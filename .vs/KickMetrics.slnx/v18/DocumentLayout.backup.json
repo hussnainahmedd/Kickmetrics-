@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\calculators\\injurycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\calculators\\injurycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\calculators\\fitnesscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\calculators\\fitnesscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\kickmetrics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\kickmetrics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\components\\pages\\players.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\components\\pages\\players.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\components\\pages\\stats.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\components\\pages\\stats.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\calculators\\performancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\calculators\\performancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\calculators\\istatcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\calculators\\istatcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\services\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\services\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\data\\fakedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\data\\fakedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\models\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\models\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|c:\\users\\husss\\onedrive\\desktop\\assignment vp\\kickmetrics\\kickmetrics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA541367-D72D-BDD9-DD13-9E80BF2494AD}|KickMetrics\\KickMetrics.csproj|solutionrelative:kickmetrics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "KickMetrics\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "KickMetrics\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T13:50:15.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InjuryCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Calculators\\InjuryCalculator.cs",
+              "RelativeDocumentMoniker": "KickMetrics\\Calculators\\InjuryCalculator.cs",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Calculators\\InjuryCalculator.cs",
+              "RelativeToolTip": "KickMetrics\\Calculators\\InjuryCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:34:48.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FitnessCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Calculators\\FitnessCalculator.cs",
+              "RelativeDocumentMoniker": "KickMetrics\\Calculators\\FitnessCalculator.cs",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Calculators\\FitnessCalculator.cs",
+              "RelativeToolTip": "KickMetrics\\Calculators\\FitnessCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:34:25.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KickMetrics.csproj",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\KickMetrics.csproj",
+              "RelativeDocumentMoniker": "KickMetrics\\KickMetrics.csproj",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\KickMetrics.csproj",
+              "RelativeToolTip": "KickMetrics\\KickMetrics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T13:30:07.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Players.razor",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Components\\Pages\\Players.razor",
+              "RelativeDocumentMoniker": "KickMetrics\\Components\\Pages\\Players.razor",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Components\\Pages\\Players.razor",
+              "RelativeToolTip": "KickMetrics\\Components\\Pages\\Players.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T13:27:49.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stats.razor",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Components\\Pages\\Stats.razor",
+              "RelativeDocumentMoniker": "KickMetrics\\Components\\Pages\\Stats.razor",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Components\\Pages\\Stats.razor",
+              "RelativeToolTip": "KickMetrics\\Components\\Pages\\Stats.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T13:28:24.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PerformanceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Calculators\\PerformanceCalculator.cs",
+              "RelativeDocumentMoniker": "KickMetrics\\Calculators\\PerformanceCalculator.cs",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Calculators\\PerformanceCalculator.cs",
+              "RelativeToolTip": "KickMetrics\\Calculators\\PerformanceCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:34:05.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStatCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Calculators\\IStatCalculator.cs",
+              "RelativeDocumentMoniker": "KickMetrics\\Calculators\\IStatCalculator.cs",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Calculators\\IStatCalculator.cs",
+              "RelativeToolTip": "KickMetrics\\Calculators\\IStatCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:33:45.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Services\\PlayerService.cs",
+              "RelativeDocumentMoniker": "KickMetrics\\Services\\PlayerService.cs",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Services\\PlayerService.cs",
+              "RelativeToolTip": "KickMetrics\\Services\\PlayerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:32:54.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Services\\IPlayerService.cs",
+              "RelativeDocumentMoniker": "KickMetrics\\Services\\IPlayerService.cs",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Services\\IPlayerService.cs",
+              "RelativeToolTip": "KickMetrics\\Services\\IPlayerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:32:27.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FakeData.cs",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Data\\FakeData.cs",
+              "RelativeDocumentMoniker": "KickMetrics\\Data\\FakeData.cs",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Data\\FakeData.cs",
+              "RelativeToolTip": "KickMetrics\\Data\\FakeData.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:31:32.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Models\\Stats.cs",
+              "RelativeDocumentMoniker": "KickMetrics\\Models\\Stats.cs",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Models\\Stats.cs",
+              "RelativeToolTip": "KickMetrics\\Models\\Stats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:30:49.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "KickMetrics\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Models\\Player.cs",
+              "RelativeToolTip": "KickMetrics\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:30:26.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Program.cs",
+              "RelativeDocumentMoniker": "KickMetrics\\Program.cs",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\ASSIGNMENT VP\\KickMetrics\\KickMetrics\\Program.cs",
+              "RelativeToolTip": "KickMetrics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:24:41.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

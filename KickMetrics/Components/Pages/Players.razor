@@ -1,0 +1,21 @@
+﻿@page "/"
+
+@page "/players"
+@using KickMetrics.Models
+@inject KickMetrics.Services.IPlayerService PlayerService
+
+<h3>Players</h3>
+
+@foreach (var p in players)
+{
+    <p>@p.Name - @p.Position</p>
+}
+
+@code {
+    List<Player> players;
+
+    protected override void OnInitialized()
+    {
+        players = PlayerService.GetPlayers();
+    }
+}

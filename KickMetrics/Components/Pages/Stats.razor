@@ -1,0 +1,26 @@
+﻿@page "/stats"
+@using KickMetrics
+@using KickMetrics.Data
+@using KickMetrics.Models
+
+<h3>Player Stats</h3>
+
+@if (player != null)
+{
+    <p>@performance.Calculate(player)</p>
+    <p>@fitness.Calculate(player)</p>
+    <p>@injury.Calculate(player)</p>
+}
+
+@code {
+    Player player;
+
+    PerformanceCalculator performance = new();
+    FitnessCalculator fitness = new();
+    InjuryCalculator injury = new();
+
+    protected override void OnInitialized()
+    {
+        player = FakeData.GetPlayers().First();
+    }
+}
